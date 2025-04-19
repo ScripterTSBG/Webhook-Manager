@@ -2,6 +2,8 @@
 
 A Roblox script designed to detect, block, delete, or respond to Discord webhook requests — all configurable through a sleek, draggable UI.
 
+![Preview](https://raw.githubusercontent.com/ScripterTSBG/Webhook-Manager/refs/heads/main/image.png)
+
 ## 📌 Features
 
 - ✅ **Webhook Detection**  
